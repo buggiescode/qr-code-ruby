@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.9.2)
+    chunky_png (1.4.0)
+    rqrcode (2.2.0)
+      chunky_png (~> 1.0)
+      rqrcode_core (~> 1.0)
+    rqrcode_core (1.2.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  awesome_print
+  rqrcode
+
+BUNDLED WITH
+   2.4.6
